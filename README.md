@@ -60,7 +60,7 @@ Ensure you have the following installed:
 
 ## Screenshots
 
-Insert screenshots of your interactions with the smart contract here.
+Screenshots are in the screenshot folder
 
 ## Transaction Hash
 
